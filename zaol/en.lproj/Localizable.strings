@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  zaol
+
+  Created by Bin Li on 13-2-5.
+  Copyright (c) 2013年 __MyCompanyName__. All rights reserved.
+*/
+"逛街" = "Shopping";
+"热门" = "Hot";
+"分类" = "Category";
+"收藏" = "Favorite";
+"设置" = "Setting";
+"正在加载" = "Loading...";
+"加载出错" = "Sorry, there wa an error.";
+"加载出错详细提示" = "Please try again later.";
+"内容为空" = "No Contents...";
+"内容为空详细提示"  = "Please try again later.";
